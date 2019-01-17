@@ -12,6 +12,13 @@ Creating simple web page with bold text, Links, ordered and unordered list, imag
 - My New page [is here](https://github.com/pradeepkumartheegala/Test "github")
 - My Pubished web page [is here](https://pradeepkumartheegala.github.io/Test/ "Source")
 
+## Code Fencing
+```HTML
+<html>
+  <head> Hello </head>
+  <body> This is sample page </body>
+</html>
+
 
 ## Inserting Image
 - This is a sample image
