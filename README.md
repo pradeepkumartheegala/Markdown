@@ -18,7 +18,7 @@
 
 ## Inserting Image
 - This is a sample image
-- ![hello](https://github.com/pradeepkumartheegala/Markdown/blob/master/newimg.jpg "Nature")
+![hello](https://github.com/pradeepkumartheegala/Test/blob/master/sample1_l.jpg "Nature")
 
 ## About me
 Pradeepkumar
