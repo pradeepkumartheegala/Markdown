@@ -18,6 +18,7 @@ Creating simple web page with bold text, Links, ordered and unordered list, imag
   <head> Hello </head>
   <body> This is sample page </body>
 </html>
+```
 
 
 ## Inserting Image
