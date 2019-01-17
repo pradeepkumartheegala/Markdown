@@ -18,7 +18,7 @@
 
 ## Inserting Image
 - This is a sample image
-![hello](https://github.com/pradeepkumartheegala/Test/raw/master/sample1_l.jpg "Nature")
+![sample1_l image](https://github.com/pradeepkumartheegala/Test/raw/master/sample1_l.jpg "Nature")
 ![sample](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "hello")
 
 ## About me
