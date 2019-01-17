@@ -23,7 +23,7 @@ Creating simple web page with bold text, Links, ordered and unordered list, imag
 ![sample1_l image](https://github.com/pradeepkumartheegala/Test/raw/master/sample1_l.jpg "Nature")
 
 ## Another Image
-![hosted image](https://simple.wikipedia.org/wiki/Nature#/media/File:Galunggung.jpg "Galunggung image")
+![hosted image](https://simple.wikipedia.org/wiki/Nature#/media/File:Galunggung.jpg "Galunggung")
 
 ## My interests:
 1. Learning new things
