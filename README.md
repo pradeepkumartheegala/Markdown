@@ -4,8 +4,7 @@
 ###### Heading section
 - Hello
 
-**Bold**
-- **We can create a bold letter here**
+**bold**
 
 ## Links
 
@@ -22,9 +21,9 @@
 - ![hello](https://github.com/pradeepkumartheegala/Markdown/blob/master/newimg.jpg "Nature")
 
 ## About me
-I am pradeepkumar and I completed my undergraduate in Anurag Engineering College and my major is computer science and engineering and now I am pursuing my master in Northwest missouri State University
+Pradeepkumar
 
 ### Contact Information
-<pradeepkumartheegala@gmail.com>
+pradeep
 
 
