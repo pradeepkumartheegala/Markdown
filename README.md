@@ -1,7 +1,7 @@
 # Markdown
 - Working with markdown
 
-###### Heading section
+###### Heading 6
 - Hello
 
 **bold**
@@ -13,8 +13,8 @@
 
 ## My interest
 1. learning new things
-2. playing crickey
-3. painting
+1. playing crickey
+1. painting
 
 ## Inserting Image
 - This is a sample image
